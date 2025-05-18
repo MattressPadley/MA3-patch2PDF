@@ -3,3 +3,4 @@ dist/*
 releases/*
 patch2PDF.spec
 Greymatter.xml
+.venv/
